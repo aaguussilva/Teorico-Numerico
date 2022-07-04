@@ -212,7 +212,7 @@
 ## Lema 1
 <img src="./img/Unidad 4/lema1.PNG" width="700"/>
 
-## Lema2
+## Lema 2
 <img src="./img/Unidad 4/lema2.PNG" width="700"/><br>
 <img src="./img/Unidad 4/demoLema2.PNG" width="700"/>
 
